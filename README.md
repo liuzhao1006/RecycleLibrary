@@ -3,6 +3,7 @@
 #### 使用方法
 
   ## 第一步:
+  
      allprojects {
        repositories {
          ...
@@ -11,6 +12,7 @@
      }
   
   ## 第二步:
+  
      dependencies {
              compile 'com.github.liuzhao1006:RecycleLibrary:v1.0'
      }
